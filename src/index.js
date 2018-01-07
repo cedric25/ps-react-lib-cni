@@ -3,12 +3,13 @@ import ReactDOM from 'react-dom';
 import Docs from './docs/Docs';
 // import registerServiceWorker from './registerServiceWorker';
 import './index.css';
-// https://highlightjs.org/static/demo/
+// For more themes: https://highlightjs.org/static/demo/
 import '../node_modules/highlight.js/styles/atom-one-light.css'
 
 ReactDOM.render(
   <Docs />,
-  document.getElementById('root'));
+  document.getElementById('root')
+);
 
 // registerServiceWorker();
 
