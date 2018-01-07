@@ -4,6 +4,9 @@ import ProgressBar from '../ProgressBar';
 import EyeIcon from '../EyeIcon';
 import TextInput from '../TextInput';
 
+// The PasswordInput is a specialization of the TextInput component
+// --> Composition over inheritance
+
 /** Password input with integrated label, quality tips, and show password toggle. */
 class PasswordInput extends React.Component {
   constructor(props) {
