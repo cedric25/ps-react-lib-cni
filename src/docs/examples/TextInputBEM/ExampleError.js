@@ -8,6 +8,7 @@ export default function ExampleError() {
       htmlId="example-error"
       label="First Name"
       name="firstname"
+      onChange={() => {}}
       required
       error="First name is required."
     />

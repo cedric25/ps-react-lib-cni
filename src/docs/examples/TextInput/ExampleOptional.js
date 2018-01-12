@@ -8,6 +8,7 @@ export default function ExampleOptional() {
       htmlId="example-optional"
       label="First Name"
       name="firstname"
+      onChange={() => {}}
     />
   )
 }
