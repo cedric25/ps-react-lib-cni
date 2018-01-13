@@ -1,5 +1,5 @@
 import React from 'react';
-import TextInput from 'ps-react/TextInput'
+import TextInput from 'ps-react-lib-cni/TextInput'
 
 /** Error TextInput */
 export default function ExampleError() {

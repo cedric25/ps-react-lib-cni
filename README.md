@@ -4,8 +4,8 @@ A library of React components created in [Creating Reusable React Components](ht
 
 ## Install
 ```
-npm install ps-react
+npm install ps-react-lib-cni
 ```
 
 ## Docs
-[Component documentation](http://coryhouse.github.io/ps-react)
+[Component documentation](http://cedric25.github.io/ps-react-lib-cni)
